@@ -1,2 +1,4 @@
-# 1. Bajar imagen de Docker Hub
+##### 1. Bajar imagen de Docker Hub
+--
 sudo docker run mongo
+--
