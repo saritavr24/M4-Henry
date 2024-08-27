@@ -1,2 +1,2 @@
-# M4-Henry
-Repositorio con fines educativos, solo para estudiar.
+# 1. Bajar imagen de Docker Hub
+sudo docker run mongo
